@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[check](./1.md)
+
 [Link](url) and ![Image](src)
 ```
 
