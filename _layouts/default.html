@@ -7,7 +7,7 @@
         {% if page.title %}
             {{ page.title }}
         {% else %} 
-            {{ site.name }} &mdash;{{ site.time | date_to_string }} &mdash; {{ site.description }} 
+            {{ site.name }} &mdash; {{ post.date | date: '%Y-%m' }} &mdash; {{ site.description }} 
         {% endif %}
     </title>
 
