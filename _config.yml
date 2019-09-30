@@ -26,3 +26,10 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
+gitment:
+  enable: true
+  githubID: smityz
+  repo: smityz.github.io
+  ClientID: 6b3b7ef684102d271d4d
+  ClientSecret: a5dac235825586699a829ba42b197d4d79a96c27
+  lazy: true
